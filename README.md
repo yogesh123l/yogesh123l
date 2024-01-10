@@ -1,4 +1,4 @@
-![logo](https://github.com/yogesh123l/yogesh123l/blob/main/Github%20Banner.png)
+![logo](https://github.com/yogesh123l/yogesh123l/blob/main/Grey%20Modern%20Professional%20Business%20Project%20Presentation-page-001.jpg)
 <h1 align="center">Hi 👋, I'm Yogesh Lambole</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
